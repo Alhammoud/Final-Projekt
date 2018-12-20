@@ -1,0 +1,14 @@
+.clock{
+	
+	float: left;
+	margin-top: -250px;
+	
+}
+
+.weather{
+	width: 317px;
+	height: 250px;
+	float: right;
+	margin-top: -250px;
+	margin-right: -80px;
+}
